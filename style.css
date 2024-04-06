@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas1 {
+    border: 0px solid black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#player {
+    display: none;
+}
+#player2 {
+    display: none;
+}
+#title {
+    display: none;
+}
+#wall {
+    display: none;
+}
+#backwall {
+    display: none;
+}
+#water {
+    display: none;
+}
+#titletext {
+    display: none;
+}
+#levelspage {
+    display: none;
+}
+#backrooms {
+    display: none;
+}
+#water {
+    display: none;
+}
+#died {
+    display: none;
+}
+#exits {
+    display: none;
+}
+.random-text {
+    color: gold; 
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    left: 580px;
+}

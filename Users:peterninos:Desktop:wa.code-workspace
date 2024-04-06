@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../try2"
+		},
+		{
+			"path": "../try4"
+		},
+		{
+			"path": "../watergirltextures"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "try2"
+	}
+}
